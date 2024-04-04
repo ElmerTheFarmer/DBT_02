@@ -1,0 +1,5 @@
+version: 2
+models:
+  - name: stg_crf_hyp_sales_fr_data
+  - name: stg_crf_prx_sales_fr_data
+  - name: stg_crf_sup_sales_fr_data
